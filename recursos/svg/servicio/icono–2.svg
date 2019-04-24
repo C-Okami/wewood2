@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-icono_2">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="icono_2" data-name="icono–2" clip-path="url(#clip-icono_2)">
+    <rect width="150" height="150" fill="#fff"/>
+    <g id="leaf-solid" transform="translate(-476 -823.047)">
+      <path id="leaf-solid-2" data-name="leaf-solid" d="M92.767,1.627a2.641,2.641,0,0,0-4.8-.2A29.111,29.111,0,0,1,62.517,16.277H48.936A32.6,32.6,0,0,0,16.342,48.871a33.566,33.566,0,0,0,.255,3.48c10.831-7.758,26.465-14.345,48.636-14.345a2.716,2.716,0,0,1,0,5.432C22.555,43.439,4.459,69.6.453,79.427A5.44,5.44,0,0,0,10.52,83.552c.255-.611,3.548-8.131,12.206-15.38A32.521,32.521,0,0,0,52.416,81.278c26.652-1.935,45.41-25.837,45.41-55.1A61.731,61.731,0,0,0,92.767,1.627Z" transform="translate(501.904 854.81)" fill="#a5b025"/>
+    </g>
+  </g>
+</svg>
